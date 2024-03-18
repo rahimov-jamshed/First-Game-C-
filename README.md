@@ -6,11 +6,12 @@ The rules are simple: the thief (T) must rob the bank ($$) and head to the airpo
 
 ## Controls
 - [w/a/s/d] - second player
-- [↑/←/↓/→] - move in menu and first player 
-- [← backspace] - undo 
+- [↑/←/↓/→] - move in menu and first player
 - [space/enter] - select
 
 ## Notice 
 In single-player, the police bot hasn't been added yet.
 
 The game is not optimized (at that time, I was just starting to program). 
+
+Enjoy and have fun!
