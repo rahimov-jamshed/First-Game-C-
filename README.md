@@ -12,4 +12,5 @@ The rules are simple: the thief (T) must rob the bank ($$) and head to the airpo
 
 ## Notice 
 In single-player, the police bot hasn't been added yet.
+
 The game is not optimized (at that time, I was just starting to program). 
